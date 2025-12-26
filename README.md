@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Bhargav
 
-I’m a Data Science student at Iowa State University (CS minor), formerly an intern @ John Deere. I like building real, usable systems, especially in backend + data engineering, and I’m working toward ML engineering by shipping applied-ML projects.
+I’m a Data Science student at Iowa State University (CS minor), former intern at John Deere. I like building real, usable systems, especially in backend + data engineering, and I’m working toward ML engineering by shipping applied-ML projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav%20Yellepeddi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhargav-yellepeddi/)
 
@@ -13,7 +13,7 @@ I’m a Data Science student at Iowa State University (CS minor), formerly an in
   - **TA, COMS 3630 Database Management Systems** (active)
   - **SI Leader, COMS 3110 Algorithms** (next semester)
 
- ## 💼 Recent experience
+## 💼 Recent experience
 - **John Deere (ISG), Data Science & Analytics Intern (May 2025 – Aug 2025)**: data lake consolidation (15 tables → 6), CV/ML pipeline (250k+ images), NL2SQL agent (LangChain + OpenAI API)
 
 ## 🌱 I’m currently learning
