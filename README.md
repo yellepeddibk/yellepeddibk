@@ -7,7 +7,7 @@ I’m a Data Science student at Iowa State University (CS minor). I like buildin
 ---
 
 ## 🔭 I’m currently working on
-- **JobIntel**: ingest job postings -> clean/dedupe -> skill extraction -> Postgres -> FastAPI -> Streamlit dashboard
+- **[JobIntel](https://github.com/yellepeddibk/jobintel)**: ingest job postings -> clean/dedupe -> skill extraction -> Postgres -> FastAPI -> Streamlit dashboard
 - ISU roles:
   - **Data Storage Lab** (active)
   - **TA, COMS 3630 Database Management Systems** (active)
@@ -27,7 +27,7 @@ I’m a Data Science student at Iowa State University (CS minor). I like buildin
 ## 💬 Ask me about
 - Python + SQL for analytics and pipelines
 - Postgres schema design and query patterns
-- ML pipelines (OpenCV / scikit-learn) and practical tradeoffs
+- ML pipelines (feature extraction, evaluation, deployment tradeoffs)
 
 ## 🧰 Tech stack
 <p align="left">
@@ -38,14 +38,14 @@ I’m a Data Science student at Iowa State University (CS minor). I like buildin
 - HashiCorp Certified: Terraform Associate (003)
 
 ## 📌 Projects
-- **JobIntel** (in progress): job market intelligence pipeline (ETL + Postgres + FastAPI + dashboard)
-- **MatrixCalculator**: Flask + PyQt matrix calculator (RREF, determinant) with a web API
-- **Fuel Efficiency Learning Model**: regression + EDA
-- **COVID Work Impact Analysis**: analysis + reporting
+- **[jobintel](https://github.com/yellepeddibk/jobintel)** (in progress): job market intelligence pipeline (ETL + Postgres + FastAPI + Streamlit)
+- **[covid-work-impact-analysis](https://github.com/yellepeddibk/covid-work-impact-analysis)**: R-based analysis + reporting
+- **[matrix-calculator](https://github.com/yellepeddibk/matrix-calculator)**: Flask + PyQt matrix calculator (RREF, determinant) + web UI
+- **[fuel-efficiency-price-regression](https://github.com/yellepeddibk/fuel-efficiency-price-regression)**: regression + EDA (linear + polynomial)
 
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/bhargav-yellepeddi/
-- Email (Personal): yellepedibk@gmail.com
+- Email (Personal): yellepeddibk@gmail.com
 - Email (School): bhargavy@iastate.edu
 
 <!--
