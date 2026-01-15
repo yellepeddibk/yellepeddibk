@@ -41,7 +41,7 @@ I’m a Data Science student at Iowa State University (CS minor) and former inte
 - HashiCorp Certified: Terraform Associate (003)
 
 ## 📌 Projects
-- **[JobIntel](https://github.com/yellepeddibk/jobintel)**: job market intelligence platform (ETL + Postgres + Streamlit dashboard, scheduled ingestion)
+- **[jobintel](https://github.com/yellepeddibk/jobintel)**: job market intelligence platform (ETL + Postgres + Streamlit dashboard, scheduled ingestion)
 - **[covid-work-impact-analysis](https://github.com/yellepeddibk/covid-work-impact-analysis)**: R-based analysis + reporting
 - **[matrix-calculator](https://github.com/yellepeddibk/matrix-calculator)**: Flask + PyQt matrix calculator (RREF, determinant) + web UI
 - **[fuel-efficiency-price-regression](https://github.com/yellepeddibk/fuel-efficiency-price-regression)**: regression + EDA (linear + polynomial)
