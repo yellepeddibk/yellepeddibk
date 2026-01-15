@@ -1,20 +1,20 @@
 # Hey there! 👋 I'm Bhargav
 
-I’m a Data Science student at Iowa State University (CS minor), former intern at John Deere. I like building real, usable systems, especially in backend + data engineering, and I’m working toward ML engineering by shipping applied-ML projects.
+I’m a Data Science student at Iowa State University (CS minor) and former intern at John Deere. I like building real, usable systems, especially in backend + data engineering, and I’m working toward ML engineering by shipping applied ML projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav%20Yellepeddi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhargav-yellepeddi/)
 
 ---
 
 ## 🔭 I’m currently working on
-- **[JobIntel](https://github.com/yellepeddibk/jobintel)**: ingest job postings -> clean/dedupe -> skill extraction -> Postgres -> FastAPI -> Streamlit dashboard
+- **Open-source contributions**
 - ISU roles:
-  - **Data Storage Lab** (active)
-  - **TA, COMS 3630 Database Management Systems** (active)
-  - **SI Leader, COMS 3110 Algorithms** (next semester)
+  - **Undergraduate Research Assistant, Data Storage Lab** (active)
+  - **SI Leader, COM S 3110 Algorithms** (active)
 
 ## 💼 Recent experience
 - **John Deere (ISG), Data Science & Analytics Intern (May 2025 – Aug 2025)**: data lake consolidation (15 tables → 6), CV/ML pipeline (250k+ images), NL2SQL agent (LangChain + OpenAI API)
+- **Undergraduate Teaching Assistant, COM S 3630 Database Management Systems** (past)
 
 ## 🌱 I’m currently learning
 - Building production APIs (filtering, pagination, clean service boundaries)
@@ -34,14 +34,14 @@ I’m a Data Science student at Iowa State University (CS minor), former intern 
 
 ## 🧰 Tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,mysql,fastapi,docker,aws,terraform,git,githubactions,linux,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=python,java,r,sqlite,postgres,mysql,fastapi,docker,aws,terraform,git,githubactions,linux,scikitlearn,pytorch" />
 </p>
 
 ## 🏅 Certifications
 - HashiCorp Certified: Terraform Associate (003)
 
 ## 📌 Projects
-- **[jobintel](https://github.com/yellepeddibk/jobintel)** (in progress): job market intelligence pipeline (ETL + Postgres + FastAPI + Streamlit)
+- **[JobIntel](https://github.com/yellepeddibk/jobintel)**: job market intelligence platform (ETL + Postgres + Streamlit dashboard, scheduled ingestion)
 - **[covid-work-impact-analysis](https://github.com/yellepeddibk/covid-work-impact-analysis)**: R-based analysis + reporting
 - **[matrix-calculator](https://github.com/yellepeddibk/matrix-calculator)**: Flask + PyQt matrix calculator (RREF, determinant) + web UI
 - **[fuel-efficiency-price-regression](https://github.com/yellepeddibk/fuel-efficiency-price-regression)**: regression + EDA (linear + polynomial)
@@ -53,15 +53,4 @@ I’m a Data Science student at Iowa State University (CS minor), former intern 
 
 <!--
 **yellepeddibk/yellepeddibk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
