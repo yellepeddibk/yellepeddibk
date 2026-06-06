@@ -49,7 +49,6 @@ I’m a Data Science student at Iowa State University (CS minor) and former inte
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/bhargav-yellepeddi/
 - Email (Personal): yellepeddibk@gmail.com
-- Email (School): bhargavy@iastate.edu
 
 <!--
 **yellepeddibk/yellepeddibk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
