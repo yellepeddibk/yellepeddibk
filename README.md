@@ -43,8 +43,7 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
 ### 🧪 Research
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B5563?style=flat-square)
 ![Computational Genetics](https://img.shields.io/badge/Computational%20Genetics-6D28D9?style=flat-square)
-![TWAS](https://img.shields.io/badge/TWAS-0F766E?style=flat-square)
-![COLOC](https://img.shields.io/badge/COLOC-7C2D12?style=flat-square)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-0F766E?style=flat-square)
 
 - Continuing publication-targeted work across FRC prediction modeling and computational genetics
 - Turning analysis into reproducible code, figures, documentation, and manuscript-ready outputs
@@ -112,7 +111,37 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
 
 - SI Leader for COM S 3110 Algorithms and Undergraduate TA for COM S 3630 Database Management Systems
 - Undergraduate researcher across statistics, computational genetics, storage systems, and machine learning
-- Worked on FRC modeling, TWAS/colocalization, storage literature extraction, and LiDAR/ML workflows
+
+---
+
+## 🧪 Research Snapshot
+
+### 🤖 FRC Statistical Modeling & Match Prediction
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B5563?style=flat-square)
+![Simulation](https://img.shields.io/badge/Simulation-1F2937?style=flat-square)
+![Prediction](https://img.shields.io/badge/Prediction-0F766E?style=flat-square)
+
+- Comparing OPR, DPR, joint offense-defense, WLS, and random-effects models across FRC events and playoff matches
+- Evaluating predictive accuracy, calibration, log-score, RMSE, and residual bias
+- Developing publication-targeted analysis around match prediction and team performance metrics
+
+### 🧬 Computational Genetics
+![TWAS](https://img.shields.io/badge/TWAS-0F766E?style=flat-square)
+![COLOC](https://img.shields.io/badge/COLOC-7C2D12?style=flat-square)
+![GTEx v8](https://img.shields.io/badge/GTEx%20v8-6D28D9?style=flat-square)
+
+- Building TWAS/colocalization workflows using GWAS summary statistics, GTEx v8 expression models, S-PrediXcan, and Bayesian colocalization
+- Prioritizing tissue-specific gene targets for ankylosing spondylitis research
+- Emphasizing reproducible pipelines, statistical rigor, and biological interpretability
+
+### 💾 Storage Systems & LiDAR/ML
+![LLM Tooling](https://img.shields.io/badge/LLM%20Tooling-111827?style=flat-square)
+![Literature Extraction](https://img.shields.io/badge/Literature%20Extraction-374151?style=flat-square)
+![LiDAR](https://img.shields.io/badge/LiDAR-0369A1?style=flat-square)
+
+- Prototyped keyword extraction workflows for storage systems literature review and LLM-assisted research tooling
+- Standardized 7,000+ LiDAR point clouds for downstream analysis
+- Analyzed 100,000+ LiDAR points for ML feature exploration
 
 ---
 
