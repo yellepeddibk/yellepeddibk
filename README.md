@@ -141,82 +141,46 @@ I care about the kind of work that forces growth: messy data, unclear requiremen
 ## 🧰 Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="PySpark" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/terraform/844FBA" alt="Terraform" width="42" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="42" height="42"/>
-  </a>
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+&nbsp;
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+&nbsp;
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+&nbsp;
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+&nbsp;
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+&nbsp;
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+&nbsp;
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://www.terraform.io/)
+&nbsp;
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+&nbsp;
+[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
+&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
 </p>
 
-**Core:** Python, SQL, PostgreSQL, PySpark, Databricks  
-**ML / Data Science:** pandas, NumPy, scikit-learn, PyTorch, statsmodels, OpenCV  
-**Backend / Web:** Flask, Next.js, TypeScript, Prisma, REST APIs  
+**Core:** Python, SQL, MySQL, PySpark, Databricks  
+**ML / Data Science:** pandas, NumPy, scikit-learn  
+**Backend / Web:** Django, Next.js, TypeScript, Prisma, REST APIs  
 **Cloud / DevOps:** AWS, Docker, Terraform, GitHub Actions, Git  
-**Tools:** Jupyter Notebook, VS Code, IntelliJ, pytest
+**Tools:** VS Code, pytest, GitHub Copilot, Claude
 
 ---
 
 ## 💬 Ask Me About
 
 - Python + SQL for analytics and pipelines
-- Postgres schema design and query patterns
 - Databricks / PySpark pipeline workflows
 - ML pipelines, feature extraction, evaluation, and deployment tradeoffs
-- Turning messy requirements into working systems
 - Research, teaching, internships, and building in public
 
 ---
