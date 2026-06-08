@@ -18,41 +18,38 @@ I build real, usable systems with data, code, and discipline.
 
 ## 👋 About Me
 
-I’m a Data Science graduate from Iowa State University with a CS minor, Summa Cum Laude, and University Honors.
+I’m a **Data Science graduate from Iowa State University** with a **CS minor**, **Summa Cum Laude**, and **University Honors**.
 
-I like building real, usable systems, especially in backend, data engineering, and applied ML. I’m working toward ML engineering by shipping projects that move beyond notebooks and into pipelines, APIs, dashboards, tests, and real workflows.
+I like building real, usable systems, especially across **backend**, **data engineering**, and **applied ML**. I’m working toward ML engineering by shipping projects that move beyond notebooks and into pipelines, APIs, dashboards, tests, and real workflows.
 
-Right now, I’m working as a **Data Engineering Intern at Pella Corporation**, building Databricks and PySpark pipeline automation to move bronze-layer data into cleaner silver and gold datasets. I’m also contributing to research aimed toward publication, including statistical modeling for FRC match prediction and computational genetics using TWAS and colocalization methods.
+Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Databricks and PySpark pipeline automation. I’m also contributing to publication-targeted research in statistical modeling and computational genetics.
 
-I care about the kind of work that forces growth: messy data, unclear requirements, broken assumptions, hard debugging, and systems that need to actually hold up.
+> I care about work that forces growth: messy data, unclear requirements, broken assumptions, hard debugging, and systems that need to actually hold up.
 
 ---
 
-## ⚡ Current Focus & Growth
+## ⚡ Current Focus
 
-- **Data engineering @ Pella Corporation**
-  - Databricks + PySpark pipeline automation
-  - Bronze → silver/gold data workflows
-  - Data quality, transformation logic, and analytics-ready datasets
+### 🏗️ Data Engineering
+`Databricks` `PySpark` `SQL` `Lakehouse`
 
-- **Publication-targeted research**
-  - Continuing research work across statistical modeling and computational genetics
-  - Turning analysis into reproducible code, figures, documentation, and manuscript-ready outputs
+- Building bronze → silver/gold workflows at Pella Corporation
+- Improving data quality, transformation logic, and analytics readiness
+- Strengthening pipeline reliability through validation, dedupe, and reproducible workflows
 
-- **Engineering growth**
-  - Production APIs with clean service boundaries
-  - Postgres schema design, indexes, window functions, and query patterns
-  - Testing + CI with pytest, integration tests, and GitHub Actions
-  - Reliable pipelines with idempotency, incremental loads, dedupe, and data quality checks
+### 🧪 Research
+`Statistical Modeling` `Computational Genetics` `TWAS` `COLOC`
 
-- **Training arc**
-  - 1 hour/day of DSA
-  - 1 hour/day rotating through pandas, NumPy, scikit-learn, and Django
-  - Turning weak spots from OAs into deliberate practice
-  - Building toward stronger backend, data engineering, and ML engineering foundations
+- Continuing publication-targeted work across FRC prediction modeling and computational genetics
+- Turning analysis into reproducible code, figures, documentation, and manuscript-ready outputs
+- Applying statistical modeling to real research questions, not just toy datasets
 
-- **Open-source contributions**
-  - Improving public projects, documentation, tests, and tooling while learning from real codebases
+### 🔥 Training Arc
+`DSA` `pandas` `NumPy` `scikit-learn` `Django`
+
+- 1 hour/day of DSA
+- 1 hour/day rotating through pandas, NumPy, scikit-learn, and Django
+- Turning weak spots from OAs into deliberate practice
 
 ---
 
@@ -63,8 +60,7 @@ I care about the kind of work that forces growth: messy data, unclear requiremen
 `Python` `PostgreSQL` `Streamlit` `ETL` `GitHub Actions`
 
 - Built a job market intelligence platform aggregating 500+ jobs from 3 REST APIs
-- Runs on a 6-hour ingestion schedule for near-real-time skill demand analysis
-- Uses SHA-256 hashing across normalized job fields for idempotent deduplication
+- Runs on a 6-hour ingestion schedule with SHA-256 deduplication across normalized job fields
 - Includes PostgreSQL storage, Streamlit analytics, 48 pytest cases, and GitHub Actions CI
 
 ---
@@ -76,17 +72,6 @@ I care about the kind of work that forces growth: messy data, unclear requiremen
 - Built a reproducible TWAS and colocalization workflow for ankylosing spondylitis research
 - Integrates GWAS summary statistics with GTEx v8 expression models
 - Uses S-PrediXcan and Bayesian colocalization to prioritize tissue-specific gene targets
-- Focused on reproducibility, statistical rigor, and biological interpretability
-
----
-
-### [adversarial-ids-evasion-analysis](https://github.com/yellepeddibk/adversarial-ids-evasion-analysis)
-**ML Intrusion Detection Robustness Evaluation**  
-`Python` `PyTorch` `scikit-learn` `Adversarial ML`
-
-- Evaluated ML intrusion detection models under FGSM and PGD adversarial evasion attacks
-- Implemented adversarial training cycles and epsilon-sweep robustness curves
-- Explored how model performance degrades under attack and improves with robustness training
 
 ---
 
@@ -116,25 +101,9 @@ I care about the kind of work that forces growth: messy data, unclear requiremen
 **Teaching + Research**  
 `Algorithms` `Databases` `Statistics` `Machine Learning`
 
-- SI Leader for COM S 3110 Algorithms
-- Undergraduate TA for COM S 3630 Database Management Systems
+- SI Leader for COM S 3110 Algorithms and Undergraduate TA for COM S 3630 Database Management Systems
 - Undergraduate researcher across statistics, computational genetics, storage systems, and machine learning
-
----
-
-## 🧪 Research Snapshot
-
-- **FRC Statistical Modeling**  
-  Comparing OPR, DPR, joint offense-defense, WLS, and random-effects models across FRC events and playoff matches.
-
-- **Computational Genetics**  
-  Building TWAS/colocalization workflows using GWAS summary statistics, GTEx v8 models, S-PrediXcan, and Bayesian colocalization.
-
-- **Storage Systems**  
-  Prototyped keyword extraction workflows for storage systems literature review and LLM-assisted research tooling.
-
-- **LiDAR / ML Research**  
-  Standardized 7,000+ LiDAR point clouds and analyzed 100,000+ points for downstream ML feature exploration.
+- Worked on research involving FRC modeling, TWAS/colocalization, storage literature extraction, and LiDAR/ML workflows
 
 ---
 
@@ -178,9 +147,8 @@ I care about the kind of work that forces growth: messy data, unclear requiremen
 
 ## 💬 Ask Me About
 
-- Python + SQL for analytics and pipelines
-- Databricks / PySpark pipeline workflows
-- ML pipelines, feature extraction, evaluation, and deployment tradeoffs
+- Python + SQL for analytics, pipelines, and backend data workflows
+- Databricks / PySpark pipeline automation and lakehouse data movement
 - Research, teaching, internships, and building in public
 
 ---
@@ -207,3 +175,4 @@ I care about the kind of work that forces growth: messy data, unclear requiremen
 <!--
 **yellepeddibk/yellepeddibk** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
+`
