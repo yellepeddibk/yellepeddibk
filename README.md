@@ -170,6 +170,22 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
 
 ---
 
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" width="800" />
+</div>
+
+---
+
+## 🗓️ 6-Month Commit Calendar
+
+<div align="center">
+  <img src="./metrics.plugin.isocalendar.svg" width="800" />
+</div>
+
+---
+
 ## 💬 Ask Me About
 
 - Python + SQL for analytics, pipelines, and backend data workflows
