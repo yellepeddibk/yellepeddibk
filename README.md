@@ -4,7 +4,7 @@
 
 ### Data Engineering • Applied ML • Backend Systems • Research
 
-I build real, usable systems with data, code, and discipline.
+**Building useful systems. Learning fast. Shipping more.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav%20Yellepeddi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhargav-yellepeddi/)
 &nbsp;
@@ -18,34 +18,43 @@ I build real, usable systems with data, code, and discipline.
 
 ## 👋 About Me
 
-I’m a **Data Science graduate from Iowa State University** with a **CS minor**, **Summa Cum Laude**, and **University Honors**.
+Growth didn’t come from life getting easier. It came from learning how to move forward when things were uncertain, heavy, and unfinished.
 
-I like building real, usable systems, especially across **backend**, **data engineering**, and **applied ML**. I’m working toward ML engineering by shipping projects that move beyond notebooks and into pipelines, APIs, dashboards, tests, and real workflows.
+I’m a **Data Science graduate from Iowa State University** with a **CS minor**, **Summa Cum Laude**, and **University Honors**. I like building real, usable systems across **data engineering**, **backend**, and **applied ML**.
 
 Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Databricks and PySpark pipeline automation. I’m also contributing to publication-targeted research in statistical modeling and computational genetics.
 
-> I care about work that forces growth: messy data, unclear requirements, broken assumptions, hard debugging, and systems that need to actually hold up.
+> Research taught me patience. Teaching taught me clarity. Industry taught me execution. Building taught me ownership.
 
 ---
 
 ## ⚡ Current Focus
 
 ### 🏗️ Data Engineering
-`Databricks` `PySpark` `SQL` `Lakehouse`
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-1F2937?style=flat-square)
 
 - Building bronze → silver/gold workflows at Pella Corporation
 - Improving data quality, transformation logic, and analytics readiness
 - Strengthening pipeline reliability through validation, dedupe, and reproducible workflows
 
 ### 🧪 Research
-`Statistical Modeling` `Computational Genetics` `TWAS` `COLOC`
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B5563?style=flat-square)
+![Computational Genetics](https://img.shields.io/badge/Computational%20Genetics-6D28D9?style=flat-square)
+![TWAS](https://img.shields.io/badge/TWAS-0F766E?style=flat-square)
+![COLOC](https://img.shields.io/badge/COLOC-7C2D12?style=flat-square)
 
 - Continuing publication-targeted work across FRC prediction modeling and computational genetics
 - Turning analysis into reproducible code, figures, documentation, and manuscript-ready outputs
 - Applying statistical modeling to real research questions, not just toy datasets
 
 ### 🔥 Training Arc
-`DSA` `pandas` `NumPy` `scikit-learn` `Django`
+![DSA](https://img.shields.io/badge/DSA-111827?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 - 1 hour/day of DSA
 - 1 hour/day rotating through pandas, NumPy, scikit-learn, and Django
@@ -103,45 +112,32 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
 
 - SI Leader for COM S 3110 Algorithms and Undergraduate TA for COM S 3630 Database Management Systems
 - Undergraduate researcher across statistics, computational genetics, storage systems, and machine learning
-- Worked on research involving FRC modeling, TWAS/colocalization, storage literature extraction, and LiDAR/ML workflows
+- Worked on FRC modeling, TWAS/colocalization, storage literature extraction, and LiDAR/ML workflows
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="left">
-
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-&nbsp;
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-&nbsp;
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-&nbsp;
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-&nbsp;
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
-&nbsp;
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-&nbsp;
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://www.terraform.io/)
-&nbsp;
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-&nbsp;
-[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
-&nbsp;
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
 **Core:** Python, SQL, MySQL, PySpark, Databricks  
 **ML / Data Science:** pandas, NumPy, scikit-learn  
 **Backend / Web:** Django, Next.js, TypeScript, Prisma, REST APIs  
 **Cloud / DevOps:** AWS, Docker, Terraform, GitHub Actions, Git  
-**Tools:** VS Code, pytest, GitHub Copilot, Claude
+**Tools:** VS Code, pytest, GitHub Copilot, Jupyter Notebook
 
 ---
 
@@ -149,7 +145,7 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
 
 - Python + SQL for analytics, pipelines, and backend data workflows
 - Databricks / PySpark pipeline automation and lakehouse data movement
-- Research, teaching, internships, and building in public
+- Research, teaching, internships, and turning pressure into better systems
 
 ---
 
@@ -168,11 +164,10 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
 
 <div align="center">
 
-### Building useful systems. Learning fast. Shipping more.
+### Clarity. Discipline. Execution.
 
 </div>
 
 <!--
 **yellepeddibk/yellepeddibk** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
-`
