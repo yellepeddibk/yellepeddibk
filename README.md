@@ -108,6 +108,7 @@ Building production data pipelines, validation frameworks, and governed analytic
   <img src="./github-metrics.svg" width="800" />
 </div>
 
+<br>
 <details>
 <summary><b>6-Month Commit Calendar</b></summary>
 <br>
