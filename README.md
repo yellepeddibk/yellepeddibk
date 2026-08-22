@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Bhargav
 
-### Data Engineering • Applied ML • Backend Systems • Research
+### Data Engineering • AI Systems • Applied ML • Research
 
 **Building useful systems. Learning fast. Shipping more.**
 
@@ -18,130 +18,63 @@
 
 ## 👋 About Me
 
-Growth didn’t come from life getting easier. It came from learning how to move forward when things were uncertain, heavy, and unfinished.
+I'm a **Data Science graduate from Iowa State University** with a **CS minor**, **Summa Cum Laude**, and **University Honors**.
 
-I’m a **Data Science graduate from Iowa State University** with a **CS minor**, **Summa Cum Laude**, and **University Honors**. I like building real, usable systems across **data engineering**, **backend**, and **applied ML**.
+I build across **data engineering, backend systems, applied ML, and research**, with a focus on reliable systems that solve real problems.
 
-Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Databricks and PySpark pipeline automation. I’m also contributing to publication-targeted research in statistical modeling and computational genetics.
+Currently working as an **Associate Data Engineer @ Pella Corporation** while contributing to publication-targeted research in statistical modeling and computational genetics.
 
 > Research taught me patience. Teaching taught me clarity. Industry taught me execution. Building taught me ownership.
 
 ---
 
-## ⚡ Current Focus
-
-### 🏗️ Data Engineering
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Lakehouse](https://img.shields.io/badge/Lakehouse-1F2937?style=flat-square)
-
-- Building bronze → silver/gold workflows at Pella Corporation
-- Improving data quality, transformation logic, and analytics readiness
-- Strengthening pipeline reliability through validation, dedupe, and reproducible workflows
-
-### 🧪 Research
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B5563?style=flat-square)
-![Computational Genetics](https://img.shields.io/badge/Computational%20Genetics-6D28D9?style=flat-square)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-0F766E?style=flat-square)
-
-- Continuing publication-targeted work across FRC prediction modeling and computational genetics
-- Turning analysis into reproducible code, figures, documentation, and manuscript-ready outputs
-- Applying statistical modeling to real research questions, not just toy datasets
-
-### 🔥 Training Arc
-![DSA](https://img.shields.io/badge/DSA-111827?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-- 1 hour/day of DSA
-- 1 hour/day rotating through pandas, NumPy, scikit-learn, and Django
-- Turning weak spots from OAs into deliberate practice
-
----
-
 ## 🚀 Selected Work
+
+### [FailureLab](https://github.com/yellepeddibk/failurelab)
+**Reliability analysis for RAG and AI-agent traces**  
+`Python` `PyPI` `Typed APIs` `LLM Evaluation` `CI`
+
+- Built a local-first Python library for deterministic analysis of RAG and agent traces
+- Supports retrieval, citation, tool, latency, cost, and failure-slice analysis through typed APIs
+- Includes reproducible reports, opt-in LLM interpretation, automated testing, static analysis, and cross-platform CI
 
 ### [jobintel](https://github.com/yellepeddibk/jobintel)
 **Job Market Intelligence Pipeline**  
 `Python` `PostgreSQL` `Streamlit` `ETL` `GitHub Actions`
 
-- Built a job market intelligence platform aggregating 500+ jobs from 3 REST APIs
-- Runs on a 6-hour ingestion schedule with SHA-256 deduplication across normalized job fields
-- Includes PostgreSQL storage, Streamlit analytics, 48 pytest cases, and GitHub Actions CI
-
----
+- Aggregates **500+ jobs from 3 REST APIs** into PostgreSQL
+- Uses SHA-256 identifiers for idempotent ingestion and deduplication
+- Includes Streamlit analytics, automated ingestion, 48 pytest cases, and GitHub Actions CI
 
 ### [as-twas-coloc](https://github.com/yellepeddibk/as-twas-coloc)
 **Reproducible Computational Genetics Pipeline**  
 `Python` `R` `GWAS` `S-PrediXcan` `COLOC`
 
-- Built a reproducible TWAS and colocalization workflow for ankylosing spondylitis research
 - Integrates GWAS summary statistics with GTEx v8 expression models
 - Uses S-PrediXcan and Bayesian colocalization to prioritize tissue-specific gene targets
+- Built around reproducibility, statistical rigor, and manuscript-ready analysis
 
 ---
 
-## 💼 Recent Experience
+## 💼 Experience & Research
 
-### Pella Corporation
-**Data Engineering Intern**  
+### Pella Corporation · Data Engineering
 `Databricks` `PySpark` `SQL` `Lakehouse`
 
-- Building Databricks and PySpark pipeline automation across 7 source tables
-- Transforming bronze-layer data into cleaner silver/gold datasets
-- Supporting validation, transformation logic, and analytics-readiness workflows
+Building production data pipelines, validation frameworks, and governed analytics/AI infrastructure.
 
----
+### John Deere ISG · Data Science & Analytics
+`AWS` `Python` `OpenCV` `scikit-learn`
 
-### John Deere ISG
-**Data Science & Analytics Intern**  
-`AWS S3` `Python` `OpenCV` `scikit-learn` `LangChain`
+- Consolidated **15 API-backed tables into 6 datasets** in an AWS S3 data lake
+- Built a CV/ML pipeline processing **250,000+ images in 30 hours**
+- Explored NL2SQL workflows using LangChain and OpenAI APIs
 
-- Consolidated 15 API-backed tables into 6 datasets in an AWS S3 data lake
-- Built a CV/ML pipeline that classified 250,000+ cotton vs. residue images in 30 hours
-- Contributed to an AI-Gateway Hackathon prototype exploring NL2SQL workflows with LangChain + OpenAI API
+### Iowa State University · Research & Teaching
 
----
-
-### Iowa State University
-**Teaching + Research**  
-`Algorithms` `Databases` `Statistics` `Machine Learning`
-
-- SI Leader for COM S 3110 Algorithms and Undergraduate TA for COM S 3630 Database Management Systems
-- Undergraduate researcher across statistics, computational genetics, storage systems, and machine learning
-
----
-
-## 🧪 Research Snapshot
-
-### 🤖 FRC Statistical Modeling & Match Prediction
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B5563?style=flat-square)
-![Simulation](https://img.shields.io/badge/Simulation-1F2937?style=flat-square)
-![Prediction](https://img.shields.io/badge/Prediction-0F766E?style=flat-square)
-
-- Comparing OPR, DPR, joint offense-defense, WLS, and random-effects models across FRC events and playoff matches
-- Evaluating predictive accuracy, calibration, log-score, RMSE, and residual bias
-- Developing publication-targeted analysis around match prediction and team performance metrics
-
-### 🧬 Computational Genetics
-![TWAS](https://img.shields.io/badge/TWAS-0F766E?style=flat-square)
-![COLOC](https://img.shields.io/badge/COLOC-7C2D12?style=flat-square)
-![GTEx v8](https://img.shields.io/badge/GTEx%20v8-6D28D9?style=flat-square)
-
-- Building TWAS/colocalization workflows using GWAS summary statistics, GTEx v8 expression models, S-PrediXcan, and Bayesian colocalization
-- Prioritizing tissue-specific gene targets for ankylosing spondylitis research
-- Emphasizing reproducible pipelines, statistical rigor, and biological interpretability
-
-### 💾 Storage Systems & LiDAR/ML
-![LLM Tooling](https://img.shields.io/badge/LLM%20Tooling-111827?style=flat-square)
-![Literature Extraction](https://img.shields.io/badge/Literature%20Extraction-374151?style=flat-square)
-![LiDAR](https://img.shields.io/badge/LiDAR-0369A1?style=flat-square)
-
-- Prototyped keyword extraction workflows for storage systems literature review and LLM-assisted research tooling
-- Standardized 7,000+ LiDAR point clouds for downstream analysis
-- Analyzed 100,000+ LiDAR points for ML feature exploration
+- Research across statistical modeling, computational genetics, storage systems, and machine learning
+- SI Leader for Algorithms and Undergraduate TA for Database Management Systems
+- Developed FRC performance models across 15 events and 232 playoff matches
 
 ---
 
@@ -162,57 +95,37 @@ Right now, I’m a **Data Engineering Intern at Pella Corporation**, building Da
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
-**Core:** Python, SQL, MySQL, PySpark, Databricks  
-**ML / Data Science:** pandas, NumPy, scikit-learn  
-**Backend / Web:** Django, Next.js, TypeScript, Prisma, REST APIs  
-**Cloud / DevOps:** AWS, Docker, Terraform, GitHub Actions, Git  
-**Tools:** VS Code, pytest, GitHub Copilot, Jupyter Notebook
+**Data:** Python, SQL, PySpark, Databricks, PostgreSQL  
+**ML:** pandas, NumPy, scikit-learn  
+**Backend:** Django, REST APIs, Next.js, TypeScript  
+**Cloud / DevOps:** AWS, Docker, Terraform, GitHub Actions, Git
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub
 
 <div align="center">
   <img src="./github-metrics.svg" width="800" />
 </div>
 
----
-
-## 🗓️ 6-Month Commit Calendar
+<details>
+<summary><b>6-Month Commit Calendar</b></summary>
+<br>
 
 <div align="center">
   <img src="./metrics.plugin.isocalendar.svg" width="800" />
 </div>
 
----
-
-## 💬 Ask Me About
-
-- Python + SQL for analytics, pipelines, and backend data workflows
-- Databricks / PySpark pipeline automation and lakehouse data movement
-- Research, teaching, internships, and turning pressure into better systems
+</details>
 
 ---
 
-## 🏅 Certifications
+**Certification:** HashiCorp Certified: Terraform Associate (003)
 
-- **HashiCorp Certified: Terraform Associate (003)**
-
----
-
-## 📫 How to Reach Me
-
-- LinkedIn: [linkedin.com/in/bhargav-yellepeddi](https://www.linkedin.com/in/bhargav-yellepeddi/)
-- Email: [yellepeddibk@gmail.com](mailto:yellepeddibk@gmail.com)
-
----
+📫 [LinkedIn](https://www.linkedin.com/in/bhargav-yellepeddi/) · [Email](mailto:yellepeddibk@gmail.com)
 
 <div align="center">
 
 ### Clarity. Discipline. Execution.
 
 </div>
-
-<!--
-**yellepeddibk/yellepeddibk** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
